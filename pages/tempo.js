@@ -9,7 +9,7 @@ function Tempo(props) {
             <div>{dynamicDateString} (dinâmico)</div>
         </div>
     )
-
+ 
 }
 
 export function getStaticProps() {
