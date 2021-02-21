@@ -24,4 +24,4 @@ export function getStaticProps() {
     }
 }
 
-export default Tempo
+export default Tempo;
