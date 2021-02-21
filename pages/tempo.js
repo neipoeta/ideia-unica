@@ -23,3 +23,5 @@ export function getStaticProps() {
         }
     }
 }
+
+export default Tempo
