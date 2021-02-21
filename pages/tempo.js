@@ -15,7 +15,7 @@ function Tempo(props) {
 export async function getStaticProps() {
     console.log('> Passando Pelo getStaticProps();')
     const staticDate = new Date();
-    const staticDateString = staticDate.toGMTStirng();
+    const staticDateString = staticDate.toGMTString();
 
     return {
         props: {
